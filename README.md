@@ -45,7 +45,7 @@ $(npm bin)/gulp
 * NodeJS
 * Express.js
 * MySQL - Main database
-* Redis - Used for user's tokens invalidation. 
+* Redis - Used in order to invalidate Json Web Tokens of users that have logged out.
 
 ### Frontend
 
